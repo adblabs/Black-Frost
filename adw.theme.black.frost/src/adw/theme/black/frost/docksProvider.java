@@ -1,4 +1,4 @@
-package x.x.x;
+package adw.theme.black.frost;
 
 import android.content.ContentProvider;
 import android.content.ContentValues;
