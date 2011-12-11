@@ -14,7 +14,7 @@ More info at &lt;a href=&quot;http://www.adblabs.com.com&quot;&gt;AdBlabs&lt;/a&
 <integer name="bubble_radius">8</integer>
 <color name="folder_title_color">#FFCCCCCC</color>
 <bool name="use_drawer_icons_bg">false</bool>
-<color name="desktop_indicator_color">#FFFFFFFF</color>
+<color name="desktop_indicator_color">#000000</color>
 <!-- ADWSettings theme config  -->
 <bool name="config_uiABBg">false</bool>
 <integer name="config_highlights_color">0x00000000</integer>
