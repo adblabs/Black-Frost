@@ -29,6 +29,6 @@
         </activity>
         <provider android:name="adw.theme.black.frost.docksProvider"  android:authorities="adw.theme.black.frost.docksProvider" />
     </application>
-	<uses-sdk android:minSdkVersion="4"/>
+	<uses-sdk android:minSdkVersion="10" android:targetSdkVersion="10" android:maxSdkVersion="10"/>
 
 </manifest> 
