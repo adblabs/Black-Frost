@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <!-- Theme properties -->
-<string name="theme_title">ADWTheme Template</string>
+<string name="theme_title">Black Frost</string>
 <!-- To devs, read here on howto format/style your descriptions -->
 <!-- http://developer.android.com/intl/de/guide/topics/resources/string-resource.html#FormattingAndStyling -->
-<string name="theme_description">This is a &lt;b>long description&lt;/b> for the theme.&lt;br/>
-Theme developers should put here some &lt;u>info, license, and whatever&lt;/u> they want.&lt;br/>
-Maybe they could add some &lt;a href="http://www.google.com">links&lt;/a> too.</string>
+<string name="theme_description">&lt;b&gt;Black Frost&lt;/b&gt; By AdBlabs&lt;br/&gt;
+AdBlabs 2011-2011&lt;br/&gt;
+More info at &lt;a href=&quot;http://www.adblabs.com.com&quot;&gt;AdBlabs&lt;/a&gt;</string>
 <!-- Theme specific appearance settings -->
 <color name="bubble_color">#B2191919</color>
 <color name="bubble_text_color">#FFFFFFFF</color>
